@@ -1,0 +1,13 @@
+/*Documento css*/
+
+body {background-color: rgb(106, 193, 164);}
+
+h1,h3 {color: antiquewhite;
+font-size: 32px;
+line-height: 140%;
+text-decoration: underline;
+text-align: center;}
+
+h2, h4 {color: beige;}
+
+h5 {color: aquamarine;}
